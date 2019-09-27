@@ -1,0 +1,2 @@
+# springmvc_mybatis_HumanResourceManagementSystem
+《Spring+MYBatis企业应用实战》14章 人事管理系统
